@@ -1,0 +1,18 @@
+{
+    "bracketPairColorizer.scopeLineCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.5"
+    ],
+    "emmet.preferences": {
+    
+    },
+    "browser-preview.startUrl": "http://localhost:",
+    "colorHelper.formatsOrder": [
+    
+    ],
+    "workbench.editorAssociations": [
+    
+    ]
+}
